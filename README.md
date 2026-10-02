@@ -1,2 +1,2 @@
 # UI-Calsi
-A simple calculator built using Acode 
+A simple calculator through c++
